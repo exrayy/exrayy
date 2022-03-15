@@ -2,9 +2,9 @@ exrayy
 
 ✨ | https://exrayy.itch.io
 
-:tv: | Currently learning: HTML
+:tv: | Currently learning: Python and C#
 
-💙 | Currently working on: Kira
+💙 | Currently working on: Pygame
 
 
 
